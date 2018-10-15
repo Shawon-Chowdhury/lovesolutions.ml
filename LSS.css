@@ -1,0 +1,321 @@
+body
+{
+	width:1360px;
+	margin:0px auto;
+	background-image:url("images/Clown Fish.jpg");
+	
+}
+.header
+{
+	height:250px;
+	background-image:url("images/1323280778.jpg");
+}
+
+
+.marquee
+
+{
+	background:#5200CC;
+	height:50px;
+	width:1360px;
+	position:absolute;
+	color:white;
+	font-weight:bold;
+	position:absolute;
+}
+
+
+.logo
+{
+	position:absolute;
+    top:70px;
+	left:100px;
+}
+.logo img
+{
+	
+	height:120px;
+	width:150px;
+	
+}
+.title
+{
+	color:#B30047;
+	position:absolute;
+	font-size:90px;
+	font-weight:bold;
+	font-family:elephant;
+	left:290px;
+	top:70px;
+}
+.topmenu
+{
+	position:absolute;
+	left:60px;
+}
+	
+.topmenu ul
+{
+	list-style:none;
+}
+.topmenu ul li
+{
+	float:left;
+	
+}
+.topmenu ul li a
+{
+	text-decoration:none;
+	padding:5px;
+	color:#CCA300;
+	font-weight:bold;
+	font-family:book inherit;
+	font-size:14px;
+	
+}
+
+
+.menu
+{
+	height:50px;
+	background:#E60073;
+}
+
+.menu ul
+{
+	margin:0px;
+	padding:0px;
+}
+.menu ul li
+{
+	float:left;
+	list-style:none;
+	border-left:1px solid #B05F63;
+	border-right:1px sold #D42027;
+}
+.menu ul li:hover
+{
+	box-shadow:0px 2px 10px;
+}
+.menu ul li a
+{
+text-decoration:none;
+padding:15px 15px;
+display:block;
+color:black;
+font-weight:bold;	
+}
+.sidebar
+{
+	height:2121px;
+	width:260px;
+	float:left;
+	background:#009933;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+}
+
+.smenu
+{
+	padding-top:20px;
+	
+}
+.smenu ul
+{
+	margin:0px;
+	padding:0px;
+	
+}
+.smenu ul li
+{
+	list-style:none;
+	padding:10px 15px;
+	background:#990099;
+	margin-bottom:1px;
+	
+}
+.smenu ul li:hover
+{
+	box-shadow:0px 2px 10px;
+}
+.smenu ul li a 
+{
+	text-decoration:none;
+	color:yellow;
+	font-weight:bold;
+}
+
+.regs
+{
+	margin-top:15px;
+	background:black;
+}
+
+.regs img
+{
+	height:50px;
+	width:250px;
+}
+
+.smenu1
+{
+	padding-top:20px;
+}
+.smenu1 ul
+{
+	margin:0px;
+	padding:0px;
+}
+.smenu1 ul li
+{
+	list-style:none;
+	padding:10px 15px;
+	background:green;
+	margin-bottom:1px;
+}
+.smenu1 ul li:hover
+{
+	box-shadow:0px 2px 10px;
+}
+.smenu1 ul li a 
+{
+	text-decoration:none;
+	color:yellow;
+	font-weight:bold;
+}
+
+.regs1
+{
+	margin-top:15px;
+	background:black;
+}
+
+.regs1 img
+{
+	height:50px;
+	width:250px;
+}
+
+
+
+.content
+{
+	height:2421px;
+	width:1060px;
+	float:right;
+	background:#fff;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	
+}
+
+.content h2
+{
+	color:white;
+	border:2px solid blue;
+	background-color:#00CC66;
+}
+
+.content p 
+{
+	text-align:justify;
+	color:green;
+	
+}
+.content p img 
+{
+	height:380px;
+	width:500px;
+	float:left;
+	padding:10px;
+}
+
+
+
+.smenu1details{
+	background-color:#99FF99;
+	background-image:url("/only_you_facebook_cover_1356511433.jpg");
+	height:2122px;
+	border:5px solid white;
+}
+.smenu1details h2{
+	font-size:20px;
+	color:white;
+	background:green;
+	padding:10px;
+	
+}
+.smenu1details p {
+	text-align:justify;
+	color:blue;
+	margin:5px;
+	font-size:20px;
+	font-weight:block;
+	text-decoration:none;
+	padding:5px;
+	font-weight:bold;
+	
+}
+.smenu1details img {
+	height:800px;
+	width:1030px;
+	float:left;
+	padding:10px;
+	border:5px solid blue;
+}
+.smenu1details h3{
+	color:black;
+	margin-right:50px;
+}
+.smenu1details{}
+
+
+
+.partnersdetails{
+	height:600px;
+	width:1030px;
+}
+
+.icon 
+{
+	position:absolute;
+	top:1px;
+	float:right;
+}
+
+.icon img
+{
+	height:30px;
+	width:30px;
+	border:2px solid pink;
+	
+}
+
+.icon ul li
+{
+	list-style:none;
+	padding-top:5px;
+}
+
+.icon ul li:hover
+{
+	box-shadow:0px 2px 10px;
+}
+
+
+
+.footer
+{ 
+background:#000000;
+clear:both;
+}
+
+.footer p
+{
+	color:red;
+	padding:100px;
+	text-align:center;
+	font-weight:bold;
+}
